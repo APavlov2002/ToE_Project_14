@@ -1,7 +1,7 @@
 import managers.managers as man
 
 
-x_corner = 3
+x_corner = -3
 y_corner = 3
 h_s = 1
 time = 1
